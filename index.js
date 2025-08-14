@@ -1,4 +1,5 @@
 // index.js - Application Entry Point
+//null in password column of LockedImages removes password from the image.
 document.addEventListener('DOMContentLoaded', function() {
     // Application is already initialized in app.js
     console.log('🚀 Advanced Data Management System loaded successfully!');
@@ -400,4 +401,5 @@ style.textContent = `
         }
     }
 `;
+
 document.head.appendChild(style);
