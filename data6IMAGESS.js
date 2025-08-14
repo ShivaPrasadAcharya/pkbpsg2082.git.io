@@ -4,7 +4,7 @@ ID,Title,Description,Image,Password
 002,Gurupurnima-2081,BPSG-2nd Batch,groupphoto2.jpg,null
 `;
 window.data6IMAGESSInfo = {
-    name: "Images2",
+    name: "LockedImages",
     emoji: "🔒",
     description: "Images with optional password protection for viewing and copying/downloading."
 };
